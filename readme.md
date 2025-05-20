@@ -4,7 +4,8 @@
 </p>
 
 # **CrowdSelect: Synthetic Instruction Data Selection with Multi-LLM Wisdom**
- 
+ **arXiv Preprint | 2025**  
+[[Paper]](https://arxiv.org/abs/2503.01836) | [[Code]](https://github.com/listentm/crowdselect)  
 
 We investigate more diverse signals to capture comprehensive instruction-response pair characteristics and propose three foundation metrics that leverage Multi-LLM wisdom: (1) diverse responses across multiple LLMs and (2) reward model (RM) assessment.  
 
